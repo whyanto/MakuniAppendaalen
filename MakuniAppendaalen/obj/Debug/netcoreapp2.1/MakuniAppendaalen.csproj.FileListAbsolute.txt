@@ -1,0 +1,16 @@
+C:\Users\aleks\source\repos\MakuniAppendaalen\MakuniAppendaalen\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\aleks\source\repos\MakuniAppendaalen\MakuniAppendaalen\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\aleks\source\repos\MakuniAppendaalen\MakuniAppendaalen\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\aleks\source\repos\MakuniAppendaalen\MakuniAppendaalen\bin\Debug\netcoreapp2.1\MakuniAppendaalen.deps.json
+C:\Users\aleks\source\repos\MakuniAppendaalen\MakuniAppendaalen\bin\Debug\netcoreapp2.1\MakuniAppendaalen.runtimeconfig.json
+C:\Users\aleks\source\repos\MakuniAppendaalen\MakuniAppendaalen\bin\Debug\netcoreapp2.1\MakuniAppendaalen.runtimeconfig.dev.json
+C:\Users\aleks\source\repos\MakuniAppendaalen\MakuniAppendaalen\bin\Debug\netcoreapp2.1\MakuniAppendaalen.dll
+C:\Users\aleks\source\repos\MakuniAppendaalen\MakuniAppendaalen\obj\Debug\netcoreapp2.1\MakuniAppendaalen.csprojAssemblyReference.cache
+C:\Users\aleks\source\repos\MakuniAppendaalen\MakuniAppendaalen\obj\Debug\netcoreapp2.1\MakuniAppendaalen.RazorAssemblyInfo.cache
+C:\Users\aleks\source\repos\MakuniAppendaalen\MakuniAppendaalen\obj\Debug\netcoreapp2.1\MakuniAppendaalen.RazorAssemblyInfo.cs
+C:\Users\aleks\source\repos\MakuniAppendaalen\MakuniAppendaalen\obj\Debug\netcoreapp2.1\MakuniAppendaalen.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\MakuniAppendaalen\MakuniAppendaalen\obj\Debug\netcoreapp2.1\MakuniAppendaalen.AssemblyInfo.cs
+C:\Users\aleks\source\repos\MakuniAppendaalen\MakuniAppendaalen\obj\Debug\netcoreapp2.1\MakuniAppendaalen.RazorTargetAssemblyInfo.cache
+C:\Users\aleks\source\repos\MakuniAppendaalen\MakuniAppendaalen\bin\Debug\netcoreapp2.1\MakuniAppendaalen.pdb
+C:\Users\aleks\source\repos\MakuniAppendaalen\MakuniAppendaalen\obj\Debug\netcoreapp2.1\MakuniAppendaalen.dll
+C:\Users\aleks\source\repos\MakuniAppendaalen\MakuniAppendaalen\obj\Debug\netcoreapp2.1\MakuniAppendaalen.pdb
