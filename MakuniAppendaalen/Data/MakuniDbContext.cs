@@ -18,5 +18,7 @@ namespace MakuniAppendaalen.Data
 
         public DbSet<Allergeenit> Allergeenit { get; set; }
         public DbSet<Ravintoarvo> Ravintoarvot { get; set; }
+
+        public DbSet<Arvostelu> KaikkiArvostelut { get; set; }
     }
 }

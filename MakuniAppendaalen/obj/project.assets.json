@@ -12623,11 +12623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleks\\source\\repos\\MakuniAppendaalen\\MakuniAppendaalen\\MakuniAppendaalen.csproj",
+      "projectUniqueName": "C:\\Users\\aleks\\Desktop\\Git repositoriot\\MakuniAppendaalen\\MakuniAppendaalen\\MakuniAppendaalen.csproj",
       "projectName": "MakuniAppendaalen",
-      "projectPath": "C:\\Users\\aleks\\source\\repos\\MakuniAppendaalen\\MakuniAppendaalen\\MakuniAppendaalen.csproj",
+      "projectPath": "C:\\Users\\aleks\\Desktop\\Git repositoriot\\MakuniAppendaalen\\MakuniAppendaalen\\MakuniAppendaalen.csproj",
       "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleks\\source\\repos\\MakuniAppendaalen\\MakuniAppendaalen\\obj\\",
+      "outputPath": "C:\\Users\\aleks\\Desktop\\Git repositoriot\\MakuniAppendaalen\\MakuniAppendaalen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
