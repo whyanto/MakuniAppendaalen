@@ -17,7 +17,7 @@ namespace MakuniAppendaalen.Models
         [Required]
         public int ToimitJatkossa { get; set; }
         [Required]
-        public int PakkausenAvaaminen { get; set; }
+        public int PakkauksenAvaaminen { get; set; }
         [Required]
         public int RakenneKuiva { get; set; }
         [Required]
@@ -37,7 +37,7 @@ namespace MakuniAppendaalen.Models
         [Required]
         public int RakenneTasainen { get; set; }
         [Required]
-        public int MikaKierratys { get; set; }     //Lasi,Metalli,Muovi,Pahvi,Paperi,Seka
+        public string MikaKierratys { get; set; }     //Lasi,Metalli,Muovi,Pahvi,Paperi,Seka
         [Required]
         public string Kommentti { get; set; }
 

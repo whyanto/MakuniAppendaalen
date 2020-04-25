@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Threading.Tasks;
 using DocumentFormat.OpenXml.Math;
@@ -7,6 +8,7 @@ using MakuniAppendaalen.Data;
 using MakuniAppendaalen.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 
 namespace MakuniAppendaalen.Controllers
@@ -160,5 +162,25 @@ namespace MakuniAppendaalen.Controllers
 
             
         }
+
+        [HttpPost]
+        public IActionResult LahetaArvostelu([FromBody]Arvostelu arvostelu)
+        {
+            string sql = "INSERT INTO dbo.KaikkiArvostelut(EAN) " +
+                         "VALUES (@EAN)";
+
+            var parameter = new SqlParameter("@EAN", arvostelu.EAN);
+            _makuniDbContext.Database.ExecuteSqlCommand(sql, parameter);
+            _makuniDbContext.SaveChanges();
+            return StatusCode(StatusCodes.Status201Created);
+
+            //_makuniDbContext.KaikkiArvostelut.Add(arvostelu);
+            //_makuniDbContext.SaveChanges();
+            //return StatusCode(StatusCodes.Status201Created);
+
+
+        }
+
+
     }
 }
